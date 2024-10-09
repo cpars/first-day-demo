@@ -1,0 +1,20 @@
+.lesson {
+  background-color: lemonchiffon;
+}
+
+.title {
+  color: darkblue;
+}
+
+#email {
+  background-color: goldenrod;
+  color: aqua;
+}
+
+#github {
+  background-color: lightsteelblue;
+}
+
+#portfolio {
+  background-color: darkorange;
+}
